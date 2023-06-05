@@ -1,0 +1,36 @@
+.decorate-font {
+  font-family: "Playfair", serif;
+  font-weight: 1000;
+}
+
+.img-arrange {
+  width: 30rem;
+  margin-top: 10px;
+}
+
+.img-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.left-allign {
+  display: flex;
+  justify-content: left;
+  margin-left: 15rem;
+}
+
+.btn-shift {
+  /* display: flex; */
+  position: relative;
+  margin-right: 2rem;
+  margin-top: 20px;
+}
+
+.Bold-it {
+  font-weight: 900;
+}
+
+.input-group-addon {
+  width: 100px;
+}
